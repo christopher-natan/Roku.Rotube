@@ -19,6 +19,8 @@ With just few lines of codes, Rotube plugin will work smoothly.
     theseItems["Category Action"]   = "action"
     theseItems["Category Drama"]    = "drama"
     theseItems["Category Adventure"]= "adventure"
+ ```
+   ```php
     rotubeItems = Rotube().Search(theseItems).Options(options).CreateGridScreen(gridScreen)
  ```
  Please be advised that you need to have your own Youtube Key. The example key will work but limited only.
