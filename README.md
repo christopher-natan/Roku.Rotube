@@ -23,6 +23,6 @@ With just few lines of codes, Rotube plugin will work smoothly.
  ```
  Please be advised that you need to have your own Youtube Key. The example key will work but limited only.
  
- #### Example
+#### Example
  I included example file and codes on this repo with the detailed explanation. For more information on how to use this Rotube plugin please refer to the example file.
 Please report any bug. Thank You
