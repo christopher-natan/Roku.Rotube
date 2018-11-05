@@ -1,12 +1,9 @@
 '**********************************************************
 '**  Rotube
 '**  Simple Youtube plugin for Roku channel application.
-'**  Licensed under The MIT License
 '**
-'**  @copyright     Copyright (c) CMNWorks Christopher M. Natan
+'**  @copyright     Copyright (c) Christopher M. Natan
 '**  @author        Christopher M. Natan
-'**  @link          http://cmnworks.com
-'**  @license       http://www.opensource.onses/mit-license.php MIT License
 '**  @version       1.1
 '**********************************************************
 '**  This .brs file contains the example on how to use Rotube plugin
