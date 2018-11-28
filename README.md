@@ -5,7 +5,7 @@ Simple Youtube plugin for Roku channel application.
 - Version 1.1 supports Grid Screen only.
 
 #### Requirements
-- Roku 2 firmware version 5.+
+- Roku 2 firmware version 5 (RSG not supported)
 
 #### Installation
 - Have a clone to Rotube repository or download Rotube.brs
