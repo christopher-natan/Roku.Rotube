@@ -23,7 +23,7 @@ With just few lines of codes, Rotube plugin will work smoothly.
    ```php
     rotubeItems = Rotube().Search(theseItems).Options(options).CreateGridScreen(gridScreen)
  ```
- Please be advised that you need to have your own Youtube Key. The example key will work but limited only.
+ Please be advised that you need to have your own Youtube Key configuratio. The example key will going to work but limited only.
  
 #### Example
 For more information on how to use this Rotube plugin please refer to the example files.
