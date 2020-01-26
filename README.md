@@ -1,5 +1,5 @@
 ## Rotube
-Simple Youtube plugin for Roku channel application.
+Simple brightScript plugin that use Youtube API to play youtube video on a Roku Channel.
 
 #### Version
 - Version 1.1 supports Grid Screen only.
