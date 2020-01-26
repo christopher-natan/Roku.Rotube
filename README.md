@@ -8,7 +8,7 @@ Simple Youtube plugin for Roku channel application.
 - Roku 2 firmware version 5 (RSG not supported)
 
 #### Installation
-- Have a clone to Rotube repository or download Rotube.brs
+- Clone Rotube repository
 - Extract or drop Rotube.brs file to your Roku source folder.
 
 #### How To Use
@@ -26,5 +26,4 @@ With just few lines of codes, Rotube plugin will work smoothly.
  Please be advised that you need to have your own Youtube Key. The example key will work but limited only.
  
 #### Example
- I included example file and codes on this repo with the detailed explanation. For more information on how to use this Rotube plugin please refer to the example file.
-Please report any bug. Thank You
+For more information on how to use this Rotube plugin please refer to the example files.
