@@ -1,3 +1,5 @@
+Note: I no longer support for this library
+
 ## Rotube
 Simple brightScript plugin that use Youtube API to play youtube video on a Roku Channel.
 
